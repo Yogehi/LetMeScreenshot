@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:1:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/e99e45fcf012dab556bfd08f68c38594/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/4b76fabd068e6a5ffb9553f8b9d5757b/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/fad48d71dd8411c70f5d36ae0366acb0/transformed/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/66c39bddd7b99f03f2a4ac604aa05275/transformed/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/05d11523c57a2dbeb1f4c3dcf702988c/transformed/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/ea032ad28c0aee761c3a34bd27cf180c/transformed/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/54c0be5f69acdd323d388997d39570cf/transformed/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/41cfe942746bd0f3c724afddaff8d6bd/transformed/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:1:1-17:12
+		INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:1:1-17:12
+		INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:4:5-16:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/e99e45fcf012dab556bfd08f68c38594/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/e99e45fcf012dab556bfd08f68c38594/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/4b76fabd068e6a5ffb9553f8b9d5757b/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/4b76fabd068e6a5ffb9553f8b9d5757b/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/fad48d71dd8411c70f5d36ae0366acb0/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/fad48d71dd8411c70f5d36ae0366acb0/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/66c39bddd7b99f03f2a4ac604aa05275/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/66c39bddd7b99f03f2a4ac604aa05275/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/05d11523c57a2dbeb1f4c3dcf702988c/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/05d11523c57a2dbeb1f4c3dcf702988c/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/ea032ad28c0aee761c3a34bd27cf180c/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/ea032ad28c0aee761c3a34bd27cf180c/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/54c0be5f69acdd323d388997d39570cf/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/54c0be5f69acdd323d388997d39570cf/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/41cfe942746bd0f3c724afddaff8d6bd/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/41cfe942746bd0f3c724afddaff8d6bd/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:10:9-40
+meta-data#xposedmodule
+ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:12:9-70
+	android:value
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:12:48-68
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:12:20-47
+meta-data#xposeddescription
+ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:13:9-177
+	android:value
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:13:53-175
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:13:20-52
+meta-data#xposedminversion
+ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:14:9-72
+	android:value
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:14:52-70
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:14:20-51
+uses-sdk
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/e99e45fcf012dab556bfd08f68c38594/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/e99e45fcf012dab556bfd08f68c38594/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/4b76fabd068e6a5ffb9553f8b9d5757b/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/4b76fabd068e6a5ffb9553f8b9d5757b/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/fad48d71dd8411c70f5d36ae0366acb0/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/fad48d71dd8411c70f5d36ae0366acb0/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/66c39bddd7b99f03f2a4ac604aa05275/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/66c39bddd7b99f03f2a4ac604aa05275/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/05d11523c57a2dbeb1f4c3dcf702988c/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/05d11523c57a2dbeb1f4c3dcf702988c/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/ea032ad28c0aee761c3a34bd27cf180c/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/ea032ad28c0aee761c3a34bd27cf180c/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/54c0be5f69acdd323d388997d39570cf/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/54c0be5f69acdd323d388997d39570cf/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/41cfe942746bd0f3c724afddaff8d6bd/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/41cfe942746bd0f3c724afddaff8d6bd/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/e99e45fcf012dab556bfd08f68c38594/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/e99e45fcf012dab556bfd08f68c38594/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/4b76fabd068e6a5ffb9553f8b9d5757b/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/4b76fabd068e6a5ffb9553f8b9d5757b/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/fad48d71dd8411c70f5d36ae0366acb0/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/fad48d71dd8411c70f5d36ae0366acb0/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/66c39bddd7b99f03f2a4ac604aa05275/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/66c39bddd7b99f03f2a4ac604aa05275/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/05d11523c57a2dbeb1f4c3dcf702988c/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/05d11523c57a2dbeb1f4c3dcf702988c/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/ea032ad28c0aee761c3a34bd27cf180c/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/ea032ad28c0aee761c3a34bd27cf180c/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/54c0be5f69acdd323d388997d39570cf/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/54c0be5f69acdd323d388997d39570cf/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/41cfe942746bd0f3c724afddaff8d6bd/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/41cfe942746bd0f3c724afddaff8d6bd/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
