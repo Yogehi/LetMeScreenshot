@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kengannon/Desktop/git/LetMeScreenshot/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "com.yogehi.letmescreenshot.app-mergeDebugResources-5:/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\kgannon\\.gradle\\caches\\transforms-3\\fec987269e863d3838b3f502bfb71bc0\\transformed\\appcompat-v7-28.0.0\\res\\values-land\\values-land.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]

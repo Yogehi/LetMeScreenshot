@@ -6,57 +6,47 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="26" />
-9-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml
+8-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:4:5-16:19
+11-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:3:5-15:19
 12        android:allowBackup="true"
-12-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:5:9-35
-13        android:debuggable="true"
-14        android:extractNativeLibs="false"
-15        android:icon="@mipmap/ic_launcher"
-15-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:6:9-43
-16        android:label="@string/app_name"
-16-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:7:9-41
-17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:8:9-54
-18        android:supportsRtl="true"
-18-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:9:9-35
-19        android:testOnly="true"
-20        android:theme="@style/AppTheme" >
-20-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:10:9-40
-21        <meta-data
-21-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:12:9-70
-22            android:name="xposedmodule"
-22-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:12:20-47
-23            android:value="true" />
-23-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:12:48-68
-24        <meta-data
-24-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:13:9-177
-25            android:name="xposeddescription"
-25-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:13:20-52
-26            android:value="Attempts to disable any security configurations that may be present that disables the screenshot function." />
-26-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:13:53-175
-27        <meta-data
-27-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:14:9-72
-28            android:name="xposedminversion"
-28-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:14:20-51
-29            android:value="53" />
-29-->/Users/kengannon/Desktop/git/LetMeScreenshot/app/src/main/AndroidManifest.xml:14:52-70
-30        <meta-data
-30-->[com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
-31            android:name="android.support.VERSION"
-31-->[com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
-32            android:value="26.1.0" />
-32-->[com.android.support:appcompat-v7:26.1.0] /Users/kengannon/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
-33        <meta-data
-33-->[android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
-34            android:name="android.arch.lifecycle.VERSION"
-34-->[android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
-35            android:value="27.0.0-SNAPSHOT" />
-35-->[android.arch.lifecycle:runtime:1.0.0] /Users/kengannon/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
-36    </application>
-37
-38</manifest>
+12-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:4:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] C:\Users\kgannon\.gradle\caches\transforms-3\0b2e52951c499520cc704bc6e41bcdd6\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:5:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:6:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:7:9-54
+19        android:supportsRtl="true"
+19-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:8:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:9:9-40
+22        <meta-data
+22-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:11:9-70
+23            android:name="xposedmodule"
+23-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:11:20-47
+24            android:value="true" />
+24-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:11:48-68
+25        <meta-data
+25-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:12:9-177
+26            android:name="xposeddescription"
+26-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:12:20-52
+27            android:value="Attempts to disable any security configurations that may be present that disables the screenshot function." />
+27-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:12:53-175
+28        <meta-data
+28-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:13:9-72
+29            android:name="xposedminversion"
+29-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:13:20-51
+30            android:value="53" />
+30-->C:\Users\kgannon\Desktop\git\LetMeScreenshot\app\src\main\AndroidManifest.xml:13:52-70
+31    </application>
+32
+33</manifest>
